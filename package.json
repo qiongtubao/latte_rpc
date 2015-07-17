@@ -1,0 +1,16 @@
+{
+  	"name": "latte_rpc",
+  	"version": "0.0.1",
+  	"main": "./lib/index.js",
+  	"description": "latte_rpc",
+	"keywords": ["latte","latte_rpc"],
+	"author": "qiongtubao",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/qiongtubao/latte_rpc.git"
+	},
+	"dependencies": {
+		"latte_lib": "*",
+		"latte_require": "*"
+	}
+}
