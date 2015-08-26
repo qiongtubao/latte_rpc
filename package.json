@@ -1,6 +1,6 @@
 {
   	"name": "latte_rpc",
-  	"version": "0.0.1",
+  	"version": "0.0.2",
   	"main": "./lib/index.js",
   	"description": "latte_rpc",
 	"keywords": ["latte","latte_rpc"],
@@ -11,6 +11,7 @@
 	},
 	"dependencies": {
 		"latte_lib": "*",
-		"latte_require": "*"
+		"latte_require": "*",
+		"latte_watch":"*"
 	}
 }
